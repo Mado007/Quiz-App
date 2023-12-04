@@ -31,9 +31,9 @@ Explore the Quiz App: [Quiz App Live Demo](https://mado007.github.io/Quiz-App/)
 ## Getting Started
 To get started with the Quiz App, simply visit the [live demo](https://mado007.github.io/Quiz-App/) and begin exploring the quizzes.
 
-Or follow these steps to run it on your localhost :
+To run the Quiz App on your localhost follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Mado007/Quiz-App.git`
+1. Clone the repository to your local machine: `git clone https://github.com/Mado007/Quiz-App.git`
 2. Open the project in your code editor.
 3. Follow the instructions in the [How to Run](#how-to-run) section.
 

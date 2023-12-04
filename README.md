@@ -6,6 +6,7 @@ Welcome to Quiz App - a dynamic and interactive quiz application!
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Live Demo](#live-demo)
 - [Getting Started](#getting-started)
 - [Technologies](#technologies)
 - [How to Run](#how-to-run)
@@ -22,10 +23,15 @@ Quiz App is a web-based quiz application designed to challenge users' knowledge 
 - **Dynamic Quiz Categories:** Explore a variety of quiz categories that dynamically adapt to your preferences.
 - **Interactive Quiz Interface:** Engage in an interactive quiz experience with a user friendly interface.
 - **High Scores Leaderboard:** Compete with others and strive for the top spot on our high scores leaderboard.
+- 
+## Live Demo
+
+Explore the Quiz App: [Quiz App Live Demo](https://mado007.github.io/Quiz-App/)
 
 ## Getting Started
+To get started with the Quiz App, simply visit the [live demo](https://mado007.github.io/Quiz-App/) and begin exploring the quizzes.
 
-To get started with Quiz Application, follow these steps:
+Or follow these steps to run it on your localhost :
 
 1. Clone the repository: `git clone https://github.com/Mado007/Quiz-App.git`
 2. Open the project in your code editor.

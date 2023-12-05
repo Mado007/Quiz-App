@@ -198,8 +198,8 @@ function countdown(duration, count) {
       minutes = parseInt(duration / 60);
       seconds = parseInt(duration % 60);
 
-      minutes = minutes < 60 ? `0${minutes}` : minutes;
-      seconds = seconds < 60 ? `0${seconds}` : seconds;
+      minutes = minutes < 10 ? `0${minutes}` : minutes;
+      seconds = seconds < 10 ? `0${seconds}` : seconds;
 
       countdownElement.innerHTML = `${minutes}:${seconds}`;
 
